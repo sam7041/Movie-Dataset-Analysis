@@ -1,34 +1,34 @@
 # Movie Dataset Analysis and Visualization
 
 ## Project Description
-This project involves analyzing a comprehensive movie dataset containing information on nearly 10,000 movies. The dataset includes attributes such as release date, title, overview, popularity, vote count, average rating, original language, and genre. The analysis covers data cleaning, preprocessing, and a variety of visualizations to uncover insights about movie trends, popular genres, voting patterns, and release statistics[attached_file:1].
+This project involves analyzing a comprehensive movie dataset containing information on nearly 10,000 movies. The dataset includes attributes such as release date, title, overview, popularity, vote count, average rating, original language, and genre. The analysis covers data cleaning, preprocessing, and a variety of visualizations to uncover insights about movie trends, popular genres, voting patterns, and release statistics.
 
 ## Features
-- Handles missing and duplicate values in the dataset[attached_file:1].
-- Converts and extracts relevant data types (e.g., release year from dates)[attached_file:1].
-- Splits and explodes genres for detailed genre-based analysis[attached_file:1].
-- Provides statistical summaries and explores key metrics like popularity and vote averages[attached_file:1].
-- Visualizes genre distribution, vote counts, and popularity trends[attached_file:1].
-- Identifies the most and least popular movies[attached_file:1].
-- Analyzes year-wise distribution of movie releases[attached_file:1].
+- Handles missing and duplicate values in the dataset.
+- Converts and extracts relevant data types (e.g., release year from dates).
+- Splits and explodes genres for detailed genre-based analysis.
+- Provides statistical summaries and explores key metrics like popularity and vote averages.
+- Visualizes genre distribution, vote counts, and popularity trends.
+- Identifies the most and least popular movies.
+- Analyzes year-wise distribution of movie releases.
 
 ## Technologies Used
-- Python (Pandas, NumPy)[attached_file:1]
-- Data visualization: Matplotlib, Seaborn[attached_file:1]
-- Jupyter Notebook for interactive exploration[attached_file:1]
+- Python (Pandas, NumPy).
+- Data visualization: Matplotlib, Seaborn.
+- Jupyter Notebook for interactive exploration.
 
 ## Installation
-1. Install Python (>=3.7 recommended)[attached_file:1].
+1. Install Python (>=3.7 recommended).
 2. Install required packages:
     ```
     pip install numpy pandas matplotlib seaborn jupyter
     ```
-3. Download the dataset (`mymoviedb.csv`) and the notebook file (`main.ipynb`)[attached_file:1].
+3. Download the dataset (`mymoviedb.csv`) and the notebook file (`main.ipynb`).
 
 ## Usage
-- Open `main.ipynb` in Jupyter Notebook or Google Colab[attached_file:1].
-- Run the cells one by one to load, clean, analyze, and visualize the data[attached_file:1].
-- Adapt or extend the analysis for new queries or datasets as needed[attached_file:1].
+- Open `main.ipynb` in Jupyter Notebook or Google Colab.
+- Run the cells one by one to load, clean, analyze, and visualize the data.
+- Adapt or extend the analysis for new queries or datasets as needed.
 
 ## Author
 Sameer Shukla
